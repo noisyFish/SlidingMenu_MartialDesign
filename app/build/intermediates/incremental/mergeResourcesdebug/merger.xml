@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res"><file name="action_personal" path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/drawable-hdpi/action_personal.png" qualifiers="hdpi" type="drawable"/><file name="drawer_shadow" path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/drawable-hdpi/drawer_shadow.9.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi" type="drawable"/><file name="ic_launcher" path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi" type="drawable"/><file name="ic_launcher" path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi" type="drawable"/><file name="activity_main" path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="drawer_list_item" path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/layout/drawer_list_item.xml" qualifiers="" type="layout"/><file name="fragment_layout" path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/layout/fragment_layout.xml" qualifiers="" type="layout"/><file name="main" path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/menu/main.xml" qualifiers="" type="menu"/><file path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="mm_up_arrow_margin">-16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/values/strings.xml" qualifiers=""><string-array name="menu_array">
+        <item>Menu 1</item>
+        <item>Menu 2</item>
+        <item>Menu 3</item>
+        <item>Menu 4</item>
+    </string-array><string name="action_settings">Settings</string><string name="action_personal">个人中心</string><string name="app_name">SlidingMenu</string><string name="hello_world">Hello world!</string></file><file path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style><declare-styleable name="MaterialMenuView">
+        <attr format="color" name="mm_color"/>
+        <attr format="integer" name="mm_scale"/>
+        <attr format="integer" name="mm_transformDuration"/>
+        <attr format="integer" name="mm_pressedDuration"/>
+        <attr format="integer" name="mm_strokeWidth"/>
+        <attr format="boolean" name="mm_rtlEnabled"/>
+    </declare-styleable><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/values-sw720dp-land/dimens.xml" qualifiers="sw720dp-land"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file></source><source path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/build/generated/res/rs/debug"/><source path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug"><source path="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="MaterialMenuView"><attr format="color" name="mm_color"/><attr format="integer" name="mm_scale"/><attr format="integer" name="mm_transformDuration"/><attr format="integer" name="mm_pressedDuration"/><attr format="integer" name="mm_strokeWidth"/><attr format="boolean" name="mm_rtlEnabled"/></declare-styleable></configuration></mergedItems></merger>

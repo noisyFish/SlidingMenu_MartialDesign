@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-37264b51a2243005408d0b81fdde8c80b20f8be3.jar" />
+    </item>
+    <item
+        jar="/Users/yuyan/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/yuyan/Desktop/SlidingMenu_Based _on_Martial/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-0eee9ee61504370b3de7cf417cabf036c13ce649.jar" />
+    </item>
+
+</items>
